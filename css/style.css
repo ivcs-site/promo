@@ -77,7 +77,7 @@ html {
     max-width: 300px;
     height: 100px;
     display: flex;
-    background: url('../img/btn.svg') no-repeat center center / contain;
+    background: url('../img/gold-btn.png') no-repeat center center / contain;
     margin-top: -20px;
     transition: 0.3s;
 }
